@@ -153,7 +153,7 @@ Deploy on web/app using embed code, Streamlit, or custom UI
 
 [WHO Health Topics](https://www.who.int/health-topics)
 
-[[Ministry of Health, Indiahttps://www.mohfw.gov.in](https://www.mohfw.gov.in)](https://www.mohfw.gov.in)
+[[Ministry of Health](https://www.mohfw.gov.in)
 
 [IBM SkillsBuild](https://skillsbuild.org)
 
