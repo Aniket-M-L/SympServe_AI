@@ -1,16 +1,21 @@
 # SympServe_AI
 SympServe_AI is a health-focused AI agent built to provide answers on symptoms, wellness, and general medical guidance. It responds only to health-related queries and avoids non-medical topics. Ideal for virtual health assistants, chatbots, or wellness platforms. 
 
+
 🧠 SympServe.AI
 An AI-powered health advisor built with IBM Watsonx.ai and Retrieval-Augmented Generation (RAG), SympServe.AI assists users in identifying symptoms, understanding potential health conditions, and offering trustworthy preventive healthcare advice. The agent supports multilingual queries and ensures grounded responses by retrieving data from trusted medical documents.
+
 
 🧩 Problem Statement
 Access to reliable and personalized health information remains a challenge—especially in rural or underserved areas. Many people misinterpret symptoms or rely on unverified online sources, leading to misdiagnosis, delayed treatment, or unnecessary panic.
 
+
 💡 Proposed Solution
 SympServe.AI is an intelligent health assistant powered by IBM Watsonx.ai that helps users understand their symptoms and receive guidance based on reliable medical documents. Using Retrieval-Augmented Generation (RAG) and a multilingual interface, the agent provides safe, accessible, and context-aware responses grounded in real health data.
 
+
 🧠 Technologies Used
+
 IBM Watsonx.ai Studio
 
 IBM Granite Foundation Model (LLM)
@@ -23,7 +28,9 @@ Natural Language Processing (NLP)
 
 IBM Cloud Object Storage
 
+
 ☁️ IBM Cloud Services Used
+
 Watsonx.ai Studio
 
 IBM Granite LLM
@@ -35,6 +42,7 @@ IBM Cloud IAM
 IBM Cloud Object Storage
 
 IBM Cloud Lite Account
+
 
 👥 End Users
 General public seeking health clarity
@@ -51,7 +59,9 @@ Elderly and non-tech-savvy individuals
 
 Local clinics or health advisory desks
 
+
 🌟 WOW Factors
+
 ✅ Uses RAG to retrieve accurate medical data from verified sources
 
 ✅ Multilingual support for inclusive health guidance
@@ -64,7 +74,9 @@ Local clinics or health advisory desks
 
 ✅ Educates users on symptoms, prevention, and common illnesses
 
+
 🧪 Key Features
+
 📄 Symptom-to-condition Q&A using document-based knowledge
 
 🧠 Natural language interaction via IBM Granite LLM
@@ -75,7 +87,9 @@ Local clinics or health advisory desks
 
 🌐 Designed for web, mobile, and community healthcare kiosks
 
+
 🚀 How It Works
+
 User Input: A query like “I have a sore throat and mild fever, what could it be?”
 
 LLM Processing: IBM Granite LLM interprets the question
@@ -85,13 +99,10 @@ Document Retrieval: Vector Index fetches relevant medical content
 AI Response: SympServe.AI responds in clear, user-friendly language with trustworthy advice
 
 🖼️ Screenshots
-🔹 Agent Preview Panel
-🔹 Symptom Input Example
-🔹 Medical Document Upload
-🔹 Multilingual Settings
-🔹 RAG Query Results Panel
+
 
 📌 How to Run or Deploy
+
 Log in to IBM Cloud Lite
 
 Open Watsonx.ai Studio
@@ -106,7 +117,9 @@ Test through the preview panel
 
 Deploy on web/app using embed code, Streamlit, or custom UI
 
+
 🛣️ Future Scope
+
 📱 Mobile & WhatsApp chatbot integration
 
 🎙️ Voice-based health input with Speech-to-Text
@@ -117,18 +130,22 @@ Deploy on web/app using embed code, Streamlit, or custom UI
 
 🌍 Expansion to multiple Indian languages via Watson Language Translator
 
+
 🔗 Useful Links
-IBM Cloud Lite
 
-IBM Watsonx.ai
+[IBM Cloud Lite](https://cloud.ibm.com/)
 
-WHO Health Topics
+[IBM Watsonx.ai](https://www.ibm.com/watsonx)
 
-Ministry of Health, India
+[WHO Health Topics](https://www.who.int/health-topics)
 
-IBM SkillsBuild
+[[Ministry of Health, Indiahttps://www.mohfw.gov.in](https://www.mohfw.gov.in)](https://www.mohfw.gov.in)
+
+[IBM SkillsBuild](https://skillsbuild.org)
+
 
 ⚖️ License
+
 This project is licensed under the MIT License.
 
 🤝 Connect With Me
