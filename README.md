@@ -60,7 +60,11 @@ Elderly and non-tech-savvy individuals
 Local clinics or health advisory desks
 
 
+
+
 🌟 WOW Factors
+
+
 
 ✅ Uses RAG to retrieve accurate medical data from verified sources
 
@@ -100,6 +104,16 @@ AI Response: SympServe.AI responds in clear, user-friendly language with trustwo
 
 🖼️ Screenshots
 
+<img width="1920" height="904" alt="Build-Setup" src="https://github.com/user-attachments/assets/4c647242-d4b3-4c51-94f3-fdd528960a69" />
+
+<img width="1920" height="894" alt="Tools" src="https://github.com/user-attachments/assets/6b9e1ac3-cd10-479b-b0c4-8c29dcb568e4" />
+<img width="1920" height="891" alt="Agent-Instruction" src="https://github.com/user-attachments/assets/5e7282b0-b11d-4f0d-aaa9-cf3224785719" />
+<img width="1920" height="892" alt="Common Instruction" src="https://github.com/user-attachments/assets/9875322e-a103-4c46-b10e-9326e515f249" />
+
+<img width="1920" height="891" alt="API-Refrences" src="https://github.com/user-attachments/assets/a156f7cd-1c68-415d-ac97-f7120a5dc1d8" />
+<img width="1920" height="902" alt="Deployement" src="https://github.com/user-attachments/assets/363fe6d4-5650-4ecb-89ea-0e1aa97c0299" />
+<img width="1920" height="907" alt="SympServe-AI_AGENT Interface" src="https://github.com/user-attachments/assets/849be7cc-58ec-4194-a54a-a61e1e84d70f" />
+<img width="1920" height="909" alt="Result" src="https://github.com/user-attachments/assets/498239c7-6220-407c-9afc-d142f81a22da" />
 
 📌 How to Run or Deploy
 
