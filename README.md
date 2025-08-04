@@ -153,7 +153,7 @@ Deploy on web/app using embed code, Streamlit, or custom UI
 
 [WHO Health Topics](https://www.who.int/health-topics)
 
-[[Ministry of Health](https://www.mohfw.gov.in)
+[Ministry of Health](https://www.mohfw.gov.in)
 
 [IBM SkillsBuild](https://skillsbuild.org)
 
@@ -164,4 +164,4 @@ This project is licensed under the MIT License.
 
 🤝 Connect With Me
 Let’s collaborate to improve access to digital healthcare:
-🔗 LinkedIn Profile
+[🔗 LinkedIn Profile](https://www.linkedin.com/in/aniket-lende43/)
